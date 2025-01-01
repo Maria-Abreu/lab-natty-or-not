@@ -1,16 +1,21 @@
 # Título do Projeto: "Titio do Celular"
 
 ## 📒 Descrição
-Resolução tecnologica para a problemática do controle de tempo de uso do celular para uma criança de seis anos, que está indo para o ensino fundamental.
+Resolução tecnologica para a problemática do controle de tempo de uso do celular para uma criança de seis anos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Copilot Microsoft
+- Elevenlabs
+- D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Como forma de controle de tempo e uso de celular, para uma criança de seis anos, foi contado que existia o titio do telefone, que era uma figura que cuidava se estava se comportando e obedecendo sobre o seu tempo no celular. Partindo desta ideia criei o vídeo usando IAs Generativas para haver uma despedida desta figura.
+Utlizei o copilot, para criar o texto inicial, que foi utilizado para gerar o áudio no Elevenlabs e posteriormente o vídeo com avatar no D-ID.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com a união das IAs Generativas citadas foi possível obter uma representação visual e auditiva para a criança.
+
+Link do Vídeo AQUI! <https://studio.d-id.com/share?id=e15c9573a21ffa334f93f9b0a7138f17&utm_source=copy>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Conseguir algo "natty" não foi tão dificíl após conhecer e compreender melhor as IAs Generativas disponiveís.
