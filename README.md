@@ -17,7 +17,7 @@ Com a união das IAs Generativas citadas foi possível obter uma representação
 
 Link do Vídeo AQUI! <https://studio.d-id.com/share?id=e15c9573a21ffa334f93f9b0a7138f17&utm_source=copy>
 
-<video src="https://studio.d-id.com/share?id=e15c9573a21ffa334f93f9b0a7138f17&utm_source=copy/to/video.mp4" width="320" heigth="240" controls></video>
+<video src="https://projects-results.d-id.com/google-oauth2%7C109992486623878684657%2Fprj_h37G-4SZ2AF_cTtd933rn%2Fresult.mp4" width="320" heigth="240" controls></video>
 
 ## 💭 Reflexão (Opcional)
 Conseguir algo "natty" não foi tão dificíl após conhecer e compreender melhor as IAs Generativas disponiveís.
