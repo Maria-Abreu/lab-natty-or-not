@@ -15,7 +15,7 @@ Utlizei o copilot, para criar o texto inicial, que foi utilizado para gerar o á
 ## 🚀 Resultados
 Com a união das IAs Generativas citadas foi possível obter uma representação visual e auditiva para a criança.
 
-Link do Vídeo AQUI <video src="https://projects-results.d-id.com/google-oauth2%7C109992486623878684657%2Fprj_h37G-4SZ2AF_cTtd933rn%2Fresult.mp4" width="320" heigth="240" controls></video>
+Link do Vídeo <a href='https://projects-results.d-id.com/google-oauth2%7C109992486623878684657%2Fprj_h37G-4SZ2AF_cTtd933rn%2Fresult.mp4'> AQUI</a>
 
 ## 💭 Reflexão (Opcional)
 Conseguir algo "natty" não foi tão dificíl após conhecer e compreender melhor as IAs Generativas disponiveís.
